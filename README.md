@@ -1,13 +1,19 @@
 ### Hey 👋🏽, I'm [Sanjeev!](https://codersanjeev.github.io/), a Mobile Application (both iOS and Android) Developer 🚀 from India. 
 
 <a href="https://twitter.com/codersanjeev">
-  <img align="left" alt="Sanjeev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sanjeev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/codersanjeev/">
-  <img align="left" alt="Sanjeev's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/codersanjeev">
+  <img align="left" alt="Sanjeev's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/coolest.guy.under.the.sun/">
+<a href="https://github.com/codersanjeev">
+  <img align="left" alt="Sanjeev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/coolest.guy.under.the.sun/">
   <img align="left" alt="Sanjeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/codersanjeev/">
+  <img align="left" alt="Sanjeev's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://leetcode.com/codersanjeev/">
   <img align="left" alt="Sanjeev's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -21,8 +27,6 @@
 
 <br />
 <br />
-  
-**Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on building awesome applications for iOS (both iPad and iPhone);
 - 🌱 I’m currently learning Swift;
@@ -31,4 +35,10 @@
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1dnQYcnO9Hndv83UTToHabaiZoZry7atD/view?usp=sharing)
 
-![Sanjeev's github stats](https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&hide_border=true)
+[![Twitter: codersanjeev](https://img.shields.io/twitter/follow/codersanjeev?style=social)](https://twitter.com/imthepk)
+[![Linkedin: codersanjeev](https://img.shields.io/badge/-codersanjeev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codersanjeev/)](https://www.linkedin.com/in/codersanjeev/)
+[![GitHub codersanjeev](https://img.shields.io/github/followers/codersanjeev?label=follow&style=social)](https://github.com/codersanjeev)
+
+<a href="https://github.com/codersanjeev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&theme=light&line_height=27" alt="Sanjeev's github stats"/>
+</a>
