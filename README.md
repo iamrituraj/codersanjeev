@@ -26,6 +26,12 @@
 </a>
 
 <br />
+
+<img align="left" src="https://cp-logo.vercel.app/codeforces/codersanjeev" />
+<img align="left" src="https://cp-logo.vercel.app/codechef/codersanjeev" />
+<img align="left" src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
+
+<br />
 <br />
 
 - 👨🏽‍💻 I’m currently working on building awesome applications for iOS (both iPad and iPhone);
