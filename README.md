@@ -35,7 +35,7 @@
   <img src="https://cp-logo.vercel.app/codechef/codersanjeev" />
 </a>
 
-<a href="https://www.codechef.com/users/codersanjeev">
+<a href="https://atcoder.jp/users/codersanjeev">
   <img src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
 </a>
 
