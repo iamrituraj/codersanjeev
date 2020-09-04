@@ -26,7 +26,19 @@
 </a>
 <br />
 <br/>
-<img src="https://cp-logo.vercel.app/codeforces/codersanjeev" /><img src="https://cp-logo.vercel.app/codechef/codersanjeev" /><img src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
+
+<a href="https://codeforces.com/profile/codersanjeev">
+  <img src="https://cp-logo.vercel.app/codeforces/codersanjeev" />
+</a>
+
+<a href="https://www.codechef.com/users/codersanjeev">
+  <img src="https://cp-logo.vercel.app/codechef/codersanjeev" />
+</a>
+
+<a href="https://www.codechef.com/users/codersanjeev">
+  <img src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
+</a>
+
 <br />
 <br />
 
