@@ -24,11 +24,9 @@
 <a href="https://codeforces.com/profile/codersanjeev">
   <img align="left" alt="Sanjeev's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-
 <br />
-
+<br/>
 <img src="https://cp-logo.vercel.app/codeforces/codersanjeev" /><img src="https://cp-logo.vercel.app/codechef/codersanjeev" /><img src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
-
 <br />
 <br />
 
