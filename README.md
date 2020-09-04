@@ -27,9 +27,7 @@
 
 <br />
 
-<img align="left" src="https://cp-logo.vercel.app/codeforces/codersanjeev" />
-<img align="left" src="https://cp-logo.vercel.app/codechef/codersanjeev" />
-<img align="left" src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
+<img src="https://cp-logo.vercel.app/codeforces/codersanjeev" /><img src="https://cp-logo.vercel.app/codechef/codersanjeev" /><img src="https://cp-logo.vercel.app/atcoder/codersanjeev" />
 
 <br />
 <br />
