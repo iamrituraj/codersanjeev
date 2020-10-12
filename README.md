@@ -51,6 +51,4 @@
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1dnQYcnO9Hndv83UTToHabaiZoZry7atD/view?usp=sharing)
 
-<a href="https://github.com/codersanjeev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&theme=light&line_height=27" alt="Sanjeev's github stats"/>
-</a>
+<img alight="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&theme=light&line_height=27" alt="Sanjeev's github stats"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersanjeev" />
