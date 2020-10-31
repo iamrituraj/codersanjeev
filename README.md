@@ -9,12 +9,6 @@
 <a href="https://github.com/codersanjeev">
   <img align="left" alt="Sanjeev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/coolest.guy.under.the.sun/">
-  <img align="left" alt="Sanjeev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/codersanjeev/">
-  <img align="left" alt="Sanjeev's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://leetcode.com/codersanjeev/">
   <img align="left" alt="Sanjeev's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -49,6 +43,5 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Swift and Kotlin are ❣️
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1dnQYcnO9Hndv83UTToHabaiZoZry7atD/view?usp=sharing)
 
 <img alight="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&theme=light&line_height=27" alt="Sanjeev's github stats"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersanjeev" />
