@@ -34,4 +34,4 @@
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=codersanjeev"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersanjeev"/>
-<img src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&count_private=true"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&count_private=true"/>
