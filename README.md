@@ -33,5 +33,12 @@
 - ⚡️ Fun-Fact: Swift and Kotlin are ❣️
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=codersanjeev"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersanjeev"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&count_private=true"/>
+<a href="https://github.com/codersanjeev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&include_all_commits=true" alt="Sanjeev's github stats" />
+</a>
+<a href="https://github.com/codersanjeev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersanjeev" />
+</a>
+<a href="https://github.com/codersanjeev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codersanjeev" />
+</a>
