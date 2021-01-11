@@ -41,5 +41,5 @@
 </a>
 <br>
 <a href="https://wakatime.com/@codersanjeev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codersanjeev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codersanjeev&langs_count=5" />
 </a>
